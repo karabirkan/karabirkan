@@ -3,7 +3,7 @@
 
 
 
--🌱 I’m currently learning Javascript, Html, Css
+-🌱 I’m currently learning Javascript, Html, Css <br>
 -📫 How to reach me: birkannewyork@gmail.com
 
 
