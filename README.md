@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning Javascript, Html, Css
-- 📫 How to reach me: birkannewyork@gmail.com
+🌱 I’m currently learning Javascript, Html, Css
+📫 How to reach me: birkannewyork@gmail.com
 
 
 
