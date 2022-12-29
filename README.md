@@ -1,11 +1,11 @@
-<div id="header"  >
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="150"/>
 </div>
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/birkan-kara-0a0a0b235/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="[your-youtube-URL](https://www.instagram.com/b1rkankara/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="[your-twitter-URL](https://twitter.com/KaraBirko)">
