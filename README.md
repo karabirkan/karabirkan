@@ -7,6 +7,3 @@
 -📫 How to reach me: birkannewyork@gmail.com
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokyoparis&show_icons=true&theme=radical)
-</div>
