@@ -1,10 +1,4 @@
 
-<div id="header"  >
-
-  <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="130"/>
-
-</div>
-
 I'm Birkan Kara, a Front-End Developer.
 
 <a href="https://www.linkedin.com/in/karabirkan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
