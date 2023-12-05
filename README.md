@@ -129,6 +129,6 @@ I'm Birkan Kara, a Front-End Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birkankara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=birkankara&theme=dark&background=000000&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=birkankara&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=birkankara)
