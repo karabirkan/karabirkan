@@ -8,7 +8,7 @@ I'm Birkan Kara, a Front-End Developer.
 
 <br />
 
-## Toolkit 🛠️
+## Tech 🛠️
 
 <table>
   <tr>
