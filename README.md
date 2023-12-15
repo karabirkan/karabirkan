@@ -2,8 +2,6 @@
 
 <h1>I'm Birkan Kara, a Frontend Software Engineer.</h1>
 
-<a href="https://www.linkedin.com/in/karabirkan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:birkannewyork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Check out my portfolio ⮕ <a href="https://birkankara.com">birkankara.com</a>
 
@@ -120,6 +118,8 @@
 <br />
 
 
+<a href="https://www.linkedin.com/in/karabirkan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:birkannewyork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=birkankara)
