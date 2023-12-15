@@ -4,7 +4,7 @@
 
 
 ### Portfolio ⮕ <a href="https://birkankara.com">birkankara.com</a>
-### Linkedin ⮕ <a href="https://www.linkedin.com/in/karabirkan</a>
+### Linkedin ⮕ <a href="https://www.linkedin.com/in/karabirkan></a>
 
 <br />
 
