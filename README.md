@@ -1,9 +1,10 @@
 
 
-<h1>I'm Birkan Kara, a Frontend Software Engineer.</h1>
+<h1>Frontend Software Engineer.</h1>
 
 
-### Check out my portfolio ⮕ <a href="https://birkankara.com">birkankara.com</a>
+### Portfolio ⮕ <a href="https://birkankara.com">birkankara.com</a>
+### Linkedin ⮕ <a href="https://www.linkedin.com/in/karabirkan</a>
 
 <br />
 
