@@ -1,5 +1,5 @@
 ```swift
-const aboutMe = {
+const about = {
   personal: {
     id: 1,
     name: "Birkan Kara",
