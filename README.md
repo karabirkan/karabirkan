@@ -1,5 +1,5 @@
 ```swift
-const AboutMe = {
+const aboutMe = {
     const name = "Birkan",
     const pronouns = ["he","him"],
     
