@@ -1,18 +1,21 @@
 ```swift
 const aboutMe = {
-    const name = "Birkan",
-    const pronouns = ["he","him"],
-    
-    let profession = "Frontend Developer @ Garcia",
-    
-    let preferredTechStack = ["Javascript", "ReactJs", "NextJS", "Typescript"]
-    let hasUsed = ["react", "javascript", "next"]
+  personal: {
+    id: 1,
+    name: "Birkan Kara",
+    username: "my dog loves yogurt",
+    email: "birkannewyork@gmail.com",
+    website: "birkankara.com",
+    address: "Istanbul",
+  },
+  tech: {
+    profession: "Frontend Developer",
+    company: "Garcia Tech",
+    techStack: ["Javascript", "ReactJs", "NextJS", "Typescript"],
+    hasUsed: ["React", "Javascript", "NextJs"],
+  },
+};
 
-    let portfolioLink = "https://birkankara.com/"
-    let goal = "I solve problems using the tools available to me.
-    I generally like using React and NextJS but not afraid to try something new."
-
-}
 ```
 
 ![](https://komarev.com/ghpvc/?username=birkankara)
