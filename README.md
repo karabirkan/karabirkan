@@ -12,7 +12,7 @@ const about = {
     profession: "Frontend Developer",
     company: "Garcia Tech",
     techStack: ["Javascript", "ReactJs", "NextJS", "Typescript"],
-    hasUsed: ["React", "Javascript", "NextJs"],
+    hasUsed: ["React", "Javascript", "NextJs", "TypeScript"],
   },
 };
 
